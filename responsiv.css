@@ -1,0 +1,74 @@
+
+@media only screen and (max-width: 972px) {
+     .header{
+         width: 100%;
+         padding: 10px 60px;
+     }
+     .header ul li{
+         padding: 0px;
+     }
+     .header ul li a{
+         padding: 8px;
+         
+     }
+     .hero{
+         width: 100%;
+         padding:0px 60px;
+         display: flex;
+         background-position: center;
+         background-size: cover;
+         height: 50vh;
+         
+     }
+     .hero .hero-content{
+        width: 50%;
+     }
+
+     .about{
+        padding: 60px;
+         
+    }
+    .about .min-about{
+         
+        margin-top:0px;
+         
+    }
+    .services{
+        padding: 60px; 
+    }
+    .project{
+        padding: 60px;
+        background: black;
+    }
+    .reviews{
+        padding:30px 60px; 
+    }
+    .pricing{
+        padding: 60px; 
+    }
+
+    .contact {
+        padding: 60px;
+    }
+    .contact .contactmain{
+        display: inline;
+        align-items: center;
+    
+    }
+    .contact .contactmain .map{
+        margin-left: 15%;
+        height: 500px;
+    }
+    .contact .contactmain .form{
+         
+        margin-left: 0px;
+        width: 71%;
+        margin: auto;
+    }
+    .blogs{
+        padding: 60px; 
+    }
+    .blogs .blog-bottom{
+        width: 70% ; 
+    }
+  }
